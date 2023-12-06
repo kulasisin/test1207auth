@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "email": "test1@gmail.com",
+      "password": "$2a$10$fNnSlRfLEo9wtlHNeK3IX.dYeuCUZVCYdepJlpylcGiTsbC0/SLue",
+      "name": "test",
+      "year": "111",
+      "month": "1",
+      "day": "1",
+      "id": 1
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$5FzjEdUWLwlA2/7ViroMvO.KtW1iPjrZivFqxhmudyhZ.sDvZ2mK2",
+      "name": "test",
+      "year": "111",
+      "month": "1",
+      "day": "1",
+      "id": 2
+    },
+    {
+      "email": "test3@gmail.com",
+      "password": "$2a$10$xqQ/NXKkTqa2X3u2Fk1IkOWm3wUrjbqyz3.l7azsK0Imd2fI3g8hO",
+      "name": "test3",
+      "year": "1111",
+      "month": "1",
+      "day": "1",
+      "id": 3
+    }
+  ]
+}
